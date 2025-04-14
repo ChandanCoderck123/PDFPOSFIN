@@ -1,0 +1,11 @@
+flask
+pdfplumber
+pydantic
+python-dotenv
+openai
+crewai
+langchain
+langchain-openai
+langchain-community
+pandas
+requests
